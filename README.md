@@ -26,6 +26,8 @@ Yes, you heard that right—I'm **recreating Google**! It's a long journey, but 
 
 ### Get in Touch:
 
+[[https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784)
+
 - 📧 **Email:** [serrelvorne@gmail.com](mailto:serrelvorne@gmail.com)
 - 📱 **Telegram:** [@caelis1784](https://t.me/caelis1784)
 - 📢 **Telegram Channel:** [@sflutterchan](https://t.me/sflutterchan)
