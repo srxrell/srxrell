@@ -35,11 +35,13 @@ Currently creating my own **ecosystem of services** — think *"Google, but made
 ### 📬 Mail Service  
 Custom email platform with authentication, spam filtering, and modern UI.  
 **Tech Stack:**  
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)  
 
 ### 👤 Account System  
 Secure account management with OAuth2, JWT, and role-based access control.  
 **Tech Stack:**  
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)  
 
 ### 📦 Node.js Libraries  
@@ -56,11 +58,7 @@ Secure account management with OAuth2, JWT, and role-based access control.
 - Learned Dart overnight *(legendary achievement 🏹)*  
 - Wrote a Flutter book after 3 months of study  
 - Rebuilt and improved the ecosystem in 2 days  
-- Rewrote the ecosystem 3 times  
-- Built & deployed 15+ production-ready apps  
-- Developed a Flutter app with **10,000+ downloads**  
-- Contributor to 5+ open-source projects  
-- Experienced in **migrating monolith apps to microservices**  
+- Rewrote the ecosystem 3 times
 
 ---
 
