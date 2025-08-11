@@ -26,11 +26,9 @@ Yes, you heard that right—I'm **recreating Google**! It's a long journey, but 
 
 ### Get in Touch:
 
-[[https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784)
-
-- 📧 **Email:** [serrelvorne@gmail.com](mailto:serrelvorne@gmail.com)
-- 📱 **Telegram:** [@caelis1784](https://t.me/caelis1784)
-- 📢 **Telegram Channel:** [@sflutterchan](https://t.me/sflutterchan)
+[![Telegram](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784)
+[![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sflutterchan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrelvorne@gmail.com)
 
 Follow my **Telegram Channel** for updates, news, and progress on my ecosystem and app creations.
 
