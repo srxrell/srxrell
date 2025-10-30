@@ -1,4 +1,4 @@
-# ✤︎ Serell Vorne ✤︎  
+# ▞︎ Serell Vorne ▞︎  
 **Full Stack & Mobile Developer**
 
 👋 Hi! I'm **Serell Vorne**, a passionate **Full Stack & Mobile Developer** with 3+ years of experience building dynamic web and mobile apps.  
