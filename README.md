@@ -13,7 +13,7 @@ Also known as <b>"Ravell Developer"</b>
 
 **Backend:**  
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)![GO](https://img.shields.io/badge/go-4287f5.svg?style=for-the-badge&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white) ![GO](https://img.shields.io/badge/go-4287f5.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Mobile:**  
 
