@@ -1,9 +1,8 @@
-# ▞︎ Serell Vorne ▞︎  
+# ✧ Serell Vorne ✧  
 **Full Stack & Mobile Developer**
 
 👋 Hi! I'm **Serell Vorne**, a passionate **Full Stack & Mobile Developer** with 3+ years of experience building dynamic web and mobile apps.  
-Currently creating my own **ecosystem of services** — think *"Google, but made by one person"* 💪.
-
+Also known as <b>"Ravell Developer"</b>
 ---
 
 ## 🛠 Tech Stack  
@@ -14,7 +13,7 @@ Currently creating my own **ecosystem of services** — think *"Google, but made
 
 **Backend:**  
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)![GO](https://img.shields.io/badge/go-4287f5.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Mobile:**  
 
@@ -32,24 +31,7 @@ Currently creating my own **ecosystem of services** — think *"Google, but made
 
 ## 🚀 Featured Projects  
 
-### 📬 Mail Service  
-Custom email platform with authentication, spam filtering, and modern UI.  
-**Tech Stack:**  
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)  
-
-### 👤 Account System  
-Secure account management with OAuth2, JWT, and role-based access control.  
-**Tech Stack:**  
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/django--rest--framework-%230172B1.svg?style=for-the-badge&logo=django&logoColor=white)  
-
-### 📦 Node.js Libraries  
-
-- **LogX** — customizable and extensible logging library designed for flexibility and clarity in complex applications.  
-- **SerellHttp** — lightweight HTTP client library built for easy integration and efficient request handling within the ecosystem.  
-
-> 🛠 Working on my **own ecosystem** — from mail to identity services and beyond.  
+>> Oh, I will not tell you about my project untill I will not release it!
 
 ---
 
@@ -77,4 +59,4 @@ In all my projects, I don’t rely on ready-made solutions — I build everythin
 
 ## 📬 Get in Touch  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784) [![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/sflutterchan) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrelvorne@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784) [![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vorneblablabla) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrelvorne@gmail.com)  
