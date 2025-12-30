@@ -34,15 +34,6 @@ Other projects coming soon… but let’s just say, I make apps **that work flaw
 
 ---
 
-## 🏆 Achievements  
-
-- Mastered **Dart & Flutter** in record time  
-- Wrote a Flutter book after just 3 months of study  
-- Completely rebuilt and optimized a mobile ecosystem in **2 days**  
-- Iterated and rewrote core systems **3 times** for perfection  
-
----
-
 ## 💡 Philosophy  
 
 I don't regret the time I spent, I regret the opportunities I missed  
