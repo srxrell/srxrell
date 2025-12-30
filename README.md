@@ -3,7 +3,7 @@
 # ✧ Serell Vorne ✧  
 **Full Stack & Mobile Developer | Flutter & Android Enthusiast**
 
-👋 Hi! I'm **Serell Vorne**, a passionate **Full Stack & Mobile Developer** building web and mobile experiences that shine. I specialize in **Flutter & Android**, crafting apps that are fast, smooth, and a joy to use.
+👋 Hi! I'm **Serell Vorne**, a **Full Stack & Mobile Developer** building web and mobile experiences that shine. I specialize in **Flutter & Android**, crafting apps that are joy to use.
 
 ---
 
