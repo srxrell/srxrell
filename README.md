@@ -45,7 +45,7 @@ Other projects coming soon… but let’s just say, I make apps **that work flaw
 
 ## 💡 Philosophy  
 
-I don’t rely on off-the-shelf solutions. Every library, every ecosystem I touch is built from scratch to deliver **unique, high-performance experiences**.  
+I don't regret the time I spent, I regret the opportunities I missed  
 
 ---
 
