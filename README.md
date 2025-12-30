@@ -21,7 +21,8 @@
 **Hosting:**  
 ![Render](https://img.shields.io/badge/Render-%2302569B.svg?style=for-the-badge&logo=Render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%230175C2.svg?style=for-the-badge&logo=netlify&logoColor=white)  
 
-**AI Integrations**
+**AI Integrations: **
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 
