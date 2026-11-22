@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects  
 
-**Ravell** – A mobile social network for sharing short stories **up to 100 words**. Designed with Flutter, it’s smooth, fast, and all about creative storytelling on the go. I built the whole ecosystem from scratch — frontend, backend, and everything in between.  
+**Ravell** – A mobile social network for sharing text stories. Designed with Flutter, it’s smooth, fast, and all about creative storytelling on the go. I built the whole ecosystem from scratch — frontend, backend, and everything in between.  
 
 Other projects coming soon… but let’s just say, I make apps **that work flawlessly** and **look amazing**.
 
