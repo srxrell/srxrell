@@ -1,9 +1,9 @@
 ![Android](https://i.pinimg.com/1200x/24/e3/8e/24e38e2d508c470982e042e79c757589.jpg)
 
-# ✧ Serell Vorne ✧  
+# ▞︎▚︎▚︎▞︎▟︎▝︎ Serell Vorne ▚︎▚︎▞︎▞︎▟︎▝︎
 **Full Stack & Mobile Developer | Flutter & Android Enthusiast**
 
-👋 Hi! I'm **Serell Vorne**, a **Full Stack & Mobile Developer** building web and mobile experiences that shine. I specialize in **Flutter & Android**, crafting apps that are joy to use.
+👾 Hi! I'm **Serell Vorne**, a **Full Stack & Mobile Developer** building web and mobile experiences that shine. I specialize in **Flutter & Android**, crafting apps that are joy to use.
 
 ---
 
@@ -50,7 +50,8 @@ Other projects coming soon… but let’s just say, I make apps **that work flaw
 
 ## 💡 Philosophy  
 
-I don't regret the time I spent, I regret the opportunities I missed  
+I don't regret the time I spent, I regret the opportunities I missed
+A true programmer won’t view artificial intelligence as a problem; he’ll turn its use into an opportunity for success.
 
 ---
 
@@ -64,5 +65,5 @@ I don't regret the time I spent, I regret the opportunities I missed
 ## 📬 Contact  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784)  
-[![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vorneblablabla)  
+[![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/serellvorne)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrelvorne@gmail.com)  
