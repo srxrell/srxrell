@@ -56,6 +56,4 @@ A true programmer won’t view artificial intelligence as a problem; he’ll tur
 
 ## 📬 Contact  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784)  
-[![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/serellvorne)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrelvorne@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/caelis1784)  [![Telegram Channel](https://img.shields.io/badge/Channel-2F80ED?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/serellvorne)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrelvorne@gmail.com)  
