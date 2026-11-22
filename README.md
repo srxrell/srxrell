@@ -1,4 +1,4 @@
-<img src="./clouds.png"></img>
+<img src="./clouds.png" style="width: 100%;"></img>
 
 # ▞︎▚︎▚︎▞︎▟︎▝︎ Serell Vorne ▚︎▚︎▞︎▞︎▟︎▝︎
 **Full Stack & Mobile Developer | Flutter & Android Enthusiast**
