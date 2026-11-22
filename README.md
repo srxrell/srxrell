@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🦎 Stack I use
 
 **Frontend:**
 
@@ -37,14 +37,6 @@
 **Tools:**  
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-
----
-
-## 🚀 Featured Projects  
-
-**Ravell** – A mobile social network for sharing text stories. Designed with Flutter, it’s smooth, fast, and all about creative storytelling on the go. I built the whole ecosystem from scratch — frontend, backend, and everything in between.  
-
-Other projects coming soon… but let’s just say, I make apps **that work flawlessly** and **look amazing**.
 
 ---
 
