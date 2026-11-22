@@ -1,4 +1,4 @@
-![Android](https://i.pinimg.com/1200x/24/e3/8e/24e38e2d508c470982e042e79c757589.jpg)
+<img src="https://i.pinimg.com/1200x/24/e3/8e/24e38e2d508c470982e042e79c757589.jpg" style="border-radius: 15px">
 
 # ▞︎▚︎▚︎▞︎▟︎▝︎ Serell Vorne ▚︎▚︎▞︎▞︎▟︎▝︎
 **Full Stack & Mobile Developer | Flutter & Android Enthusiast**
