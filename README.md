@@ -1,4 +1,4 @@
-![Android](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)
+![Android](https://i.pinimg.com/1200x/24/e3/8e/24e38e2d508c470982e042e79c757589.jpg)
 
 # ✧ Serell Vorne ✧  
 **Full Stack & Mobile Developer | Flutter & Android Enthusiast**
