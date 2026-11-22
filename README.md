@@ -49,7 +49,7 @@ A true programmer won’t view artificial intelligence as a problem; he’ll tur
 
 ## 💬 Quotes  
 
-- 🏹 Works — don’t touch it  
+- 🏹 Works - don’t touch it  
 - 🗡️ The main thing is that it works; how doesn’t matter  
 
 ---
