@@ -42,7 +42,7 @@
 
 ## ☠️ Additional achievements
 
-![Badge](https://img.shields.io/badge/Status-Professional_Steam_Engine-lightgrey?style=for-the-badge&logo=steam)
+![Badge](https://img.shields.io/badge/Status-Professional_Steam_Engine-lightgrey?style=for-the-badge&logo=steam) ![Badge](https://img.shields.io/badge/Skill-Solving_Problems_I_Created-orange?style=for-the-badge)
 
 ---
 
