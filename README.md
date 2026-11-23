@@ -40,6 +40,12 @@
 
 ---
 
+## ☠️ Additional achievements
+
+![Badge](https://img.shields.io/badge/Status-Professional_Steam_Engine-lightgrey?style=for-the-badge&logo=steam)
+
+---
+
 ## 💡 Philosophy  
 
 I don't regret the time I spent, I regret the opportunities I missed
