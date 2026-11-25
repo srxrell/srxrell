@@ -48,7 +48,7 @@
 
 ## 💡 Philosophy  
 
-I don't regret the time I spent, I regret the opportunities I missed
+I don't regret the time I spent, I regret the opportunities I missed \n
 A true programmer won’t view artificial intelligence as a problem; he’ll turn its use into an opportunity for success.
 
 ---
